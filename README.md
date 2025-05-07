@@ -1,5 +1,7 @@
 # Day3-LeProject
 A site with 3 img and stuff:
+is not structured but idk how to save the code yet... ye so here it is copy it then try to glue it all together
+
 
 <!DOCTYPE html>
 <html lang="ro">
